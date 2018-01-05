@@ -19,8 +19,8 @@ def stock_prices_yesterday(raw = []):
     		raise ValueError('Getting a profit requires at least 2 prices')
 	
 	# Edge case of cosistently decreasing stock price.
-		# This is a cool way to check if the list is reverse sorted or in this
-		#  case, forever decreasing
+		# This is a neat way to check if the list is reverse sorted or, in this
+		#  case, forever decreasing (descending order)
 	if all(earlier >= later for earlier, later in zip(raw, raw[1:])):
 		answer = "The stock price decreased all day. Profit not possible."
 		return answer
