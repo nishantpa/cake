@@ -41,5 +41,5 @@ answer = stock_prices_yesterday(case2)
 print answer
 
 '''
-I want cake
+
 '''
