@@ -41,13 +41,14 @@ def get_products_of_all_ints_except_at_index(intList = []):
 	prodSoFar = 1
 	prodOfAll_NotCurrent = []
 	
+	# Find the product of all numbers before the current index
 	for elem in intList:
 		prodOfAll_NotCurrent.append(prodSoFar)
 		prodSoFar *= elem
 
-	# Note that reversed does NOT create a new list. It returns an iterator
-	prodSoFar = 1
-	
+	# Get the prod of all numbers after the index, and multiply it by corresponding index
+	# This gives the product of all numbers except at the current index
+	prodSoFar = 1	
 	i = len(intList) - 1
 	while i >= 0:
 		prodOfAll_NotCurrent[i] *= prodSoFar
