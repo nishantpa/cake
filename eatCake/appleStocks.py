@@ -14,6 +14,17 @@
 import sys
 
 def stock_prices_yesterday(raw = []):
+	# Address an edge case where there's only 1 entry
+	if len(raw) < 2:
+    		raise ValueError('Getting a profit requires at least 2 prices')
+	
+	# Edge case of cosistently decreasing stock price.
+		# This is a cool way to check if the list is reverse sorted or in this
+		#  case, forever decreasing
+	if all(earlier >= later for earlier, later in zip(raw, raw[1:])):
+		answer = "The stock price decreased all day. Profit not possible."
+		return answer
+
 	# Find index of stock at lowest price in the day
 	lowestTradeIndex = min( xrange(len(raw)), key = raw.__getitem__ )
 
@@ -26,5 +37,9 @@ def stock_prices_yesterday(raw = []):
 
 case1 = [10, 7, 11, 8, 5, 9]
 case2 = [6, 5, 4, 3, 2, 1, 0]
-answer = stock_prices_yesterday(case1)
+answer = stock_prices_yesterday(case2)
 print answer
+
+'''
+I want cake
+'''
