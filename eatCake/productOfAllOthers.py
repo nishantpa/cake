@@ -58,5 +58,6 @@ def get_products_of_all_ints_except_at_index(intList = []):
 	print prodOfAll_NotCurrent
 
 
-case1 = [3, 1, 2, 5, 6, 4]
+case1 = [3, 1, 2, 0, 6, 4]
+case2 = [1, 7, 3, 4]
 answer = get_products_of_all_ints_except_at_index(case1)
