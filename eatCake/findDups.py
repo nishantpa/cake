@@ -20,9 +20,13 @@
 #    ('/home/trololol.mov', '/etc/apache2/httpd.conf')]
 
 # You can assume each file was only duplicated once.
+import os
 
 def findDups():
-	print "Hellowr old"
+	for root, dirs, files in os.walk("/Users/nishantpatel/Development/"):
+		for file in files:
+			if file.endswith(".md"):
+				print(os.path.join(root,file))
 
 
 answer = findDups()
