@@ -26,7 +26,7 @@ def stock_prices_yesterday(raw = []):
 		return answer
 
 	# Find index of stock at lowest price in the day
-	lowestTradeIndex = min( xrange(len(raw)), key = raw.__getitem__ )
+	lowestTradeIndex = min( xrange(len(raw)), key = raw.get )
 
 	# The high trade must occur AFTER lowest.
 	highTradeIndex = raw.index(max(raw[raw.index(min(raw)):])) 
