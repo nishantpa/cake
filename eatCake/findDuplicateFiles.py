@@ -20,7 +20,7 @@
 #  ('/home/trololol.mov', '/etc/apache2/httpd.conf')]
 # You can assume each file was only duplicated once.
 
-# My solution is largely modeled after an optimized solution on stackoverflow
+# My solution is largely modeled after an optimized solution on stackoverflow. https://goo.gl/TC6dqY
 
 import sys
 import os
@@ -52,6 +52,8 @@ def checkForDups(paths, hash = hashlib.sha1):
 	hashesBySize = {}
 	hashesOn1k = {}
 	hashesFull = {}
+
+	formatAnswer = []
 
 	for path in paths:
 		for dirpath, dirnames, filenames in os.walk(path):
@@ -98,9 +100,12 @@ def checkForDups(paths, hash = hashlib.sha1):
 
 			duplicate = hashesFull.get(fullHash)
 			if duplicate:
-				print "We found a duplicate! Duplicate:Original -- %s and %s" % (duplicate, filename)
+				# print "We found a duplicate! Duplicate:Original -- %s and %s" % (duplicate, filename)
+				formatAnswer.append( (duplicate, filename) )
 			else:
 				hashesFull[fullHash] = filename
+
+	print formatAnswer
 
 if sys.argv[1:]:
 	checkForDups(sys.argv[1:])
