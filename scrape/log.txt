@@ -1,0 +1,18 @@
+Toyota AYGOL x W x H: 3455 x 1615 x 1460 mmBoot capacity: 168 dm3
+New Toyota Yaris 2017L x W x H: 3945 x 1695 x 1510 mmBoot capacity: 286 dm3
+Toyota AurisL x W x H: 4330 x 1760 x 1475 mmBoot capacity: 360 dm3
+Toyota Auris Touring SportsL x W x H: 4595 x 1760 x 1485 mmBoot capacity: 530 dm3
+Toyota GT86L x W x H: 4240 x 1775 x 1285 mmBoot capacity: 237 dm3
+Toyota PriusL x W x H: 4540 x 1760 x 1470 mmBoot capacity: 502 dm3
+Toyota Prius+L x W x H: 4645 x 1775 x 1575 mmUp to 7 seater. With 5 seater: 505 dm3
+Toyota VersoL x W x H: 4460 x 1790 x 1620 mmUp to 7 seater. With 5 seater: 484 dm3
+Toyota AvensisL x W x H: 4750 x 1810 x 1480 mmBoot capacity: 509 dm3
+Toyota Avensis Touring SportsL x W x H: 4820 x 1810 x 1480 mmBoot capacity: 543 dm3
+New Toyota C-HR 2017L x W x H: 4360 x 1795 x 1550 mmBoot capacity: 377 dm3
+Toyota RAV4L x W x H: 4605 x 1845 x 1675 mmBoot capacity: 547 dm3
+Toyota Land Cruiser 3-doorL x W x H: 4505 x 1885 x 1830 mmBoot capacity: 381 dm3
+Toyota Land Cruiser 5-doorL x W x H: 4780 x 1885 x 1845 mmUp to 7 seater. With 5 seater: 621 dm3
+Toyota Hilux 2CabL x W x H: 5330 x 1855 x 1815 mm 
+Toyota Proace Verso CompactL x W x H: 4609 x 1920 x 1905 mmUp to 9 seater. With 6 seater: 1978 dm3
+Toyota Proace Verso MediumL x W x H: 4959 x 1920 x 1890 mmUp to 9 seater. With 6 seater: 2381 dm3
+Toyota Proace Verso LongL x W x H: 5309 x 1920 x 1890 mmUp to 9 seater. With 6 seater: 2932 dm3

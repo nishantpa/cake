@@ -1,0 +1,213 @@
+"Structs Plugin"," v.","1.2"," ","Matrix Project Plugin"," v.","1.4"," ","Maven Integration plugin"," v.","2.9"," ","OWASP Markup Formatter Plugin"," v.","1.5"," ", "plugID": ["ID: ","analysis-core"]
+
+"Structs Plugin"," v.","1.6"," ", "plugID": ["ID: ","ant"]
+
+"Credentials Plugin"," v.","1.16.1"," ","SSH Credentials Plugin"," v.","1.10"," ", "plugID": ["ID: ","ansible"]
+
+"Maven Integration plugin"," v.","2.17"," ","Matrix Project Plugin"," v.","1.7.1"," ","Structs Plugin"," v.","1.10"," ","Static Analysis Utilities"," v.","1.92"," ", "plugID": ["ID: ","android-lint"]
+
+"Credentials Plugin"," v.","1.22"," ", "plugID": ["ID: ","authentication-tokens"]
+
+"Matrix Project Plugin"," v.","1.2.1"," ","Static Analysis Utilities"," v.","1.88"," ","Maven Integration plugin"," v.","2.9"," ", "plugID": ["ID: ","analysis-collector"]
+
+"Jenkins promoted builds plugin"," v.","2.17"," ","Matrix Project Plugin"," v.","1.0"," ","Jenkins Parameterized Trigger plugin"," v.","2.18"," ", "plugID": ["ID: ","buildgraph-view"]
+
+"jQuery plugin"," v.","1.7.2-1"," ","Jenkins Parameterized Trigger plugin"," v.","2.17"," ", "plugID": ["ID: ","build-pipeline-plugin"]
+
+"Folders Plugin"," v.","6.1.0"," ","SCM API Plugin"," v.","2.2.3"," ","Structs Plugin"," v.","1.9"," ", "plugID": ["ID: ","branch-api"]
+
+"Matrix Project Plugin"," v.","1.4.1"," ", "plugID": ["ID: ","cloverphp"]
+
+"Matrix Project Plugin"," v.","1.2.1"," ","Static Analysis Utilities"," v.","1.74"," ", "plugID": ["ID: ","ccm"]
+
+"Static Analysis Utilities"," v.","1.88"," ","Maven Integration plugin"," v.","2.9"," ","Matrix Project Plugin"," v.","1.2.1"," ", "plugID": ["ID: ","checkstyle"]
+
+"Maven Integration plugin"," v.","2.13"," ","Matrix Project Plugin"," v.","1.0"," ","Run Condition Plugin"," v.","1.0"," ","Token Macro Plugin"," v.","1.5.1"," ", "plugID": ["ID: ","conditional-buildstep"]
+
+"Credentials Plugin"," v.","2.1.4"," ","SSH Credentials Plugin"," v.","1.12"," ","Structs Plugin"," v.","1.3"," ","Token Macro Plugin"," v.","2.0"," ", "plugID": ["ID: ","config-file-provider"]
+
+"Pipeline: Step API"," v.","2.10"," ","Credentials Plugin"," v.","2.1.7"," ","Plain Credentials Plugin"," v.","1.3"," ","SSH Credentials Plugin"," v.","1.11"," ","Structs Plugin"," v.","1.7"," ", "plugID": ["ID: ","credentials-binding"]
+
+"Structs Plugin"," v.","1.7"," ", "plugID": ["ID: ","credentials"]
+
+"Structs Plugin"," v.","1.8"," ","Token Macro Plugin"," v.","2.0"," ", "plugID": ["ID: ","cucumber-reports"]
+
+"database"," v.","1.1"," ", "plugID": ["ID: ","database-mysql"]
+
+"Pipeline"," v.","2.0"," ","Folders Plugin"," v.","5.7"," ","Pipeline: REST API Plugin"," v.","2.5"," ","jQuery plugin"," v.","1.7.2-1"," ","Token Macro Plugin"," v.","1.9"," ","JUnit Plugin"," v.","1.19"," ","Pipeline: Stage View Plugin"," v.","2.5"," ","Jenkins Parameterized Trigger plugin"," v.","2.21"," ", "plugID": ["ID: ","delivery-pipeline-plugin"]
+
+"Maven Integration plugin"," v.","2.13"," ","Matrix Project Plugin"," v.","1.3"," ", "plugID": ["ID: ","dashboard-view"]
+
+"Static Analysis Utilities"," v.","1.86"," ","Maven Integration plugin"," v.","2.4"," ", "plugID": ["ID: ","dependency-check-jenkins-plugin"]
+
+"Credentials Plugin"," v.","2.1.13"," ", "plugID": ["ID: ","deploy"]
+
+"Maven Integration plugin"," v.","1.424"," ", "plugID": ["ID: ","dependencyanalyzer"]
+
+"Icon Shim Plugin"," v.","1.0.3"," ","Authentication Tokens API Plugin"," v.","1.1"," ","Credentials Plugin"," v.","2.1.11"," ","Credentials Binding Plugin"," v.","1.12"," ", "plugID": ["ID: ","docker-commons"]
+
+"Credentials Plugin"," v.","1.22"," ","Docker Commons Plugin"," v.","1.4.0"," ", "plugID": ["ID: ","docker-build-step"]
+
+"bouncycastle API Plugin"," v.","2.16.2"," ","Docker Commons Plugin"," v.","1.8"," ","Docker API Plugin"," v.","3.0.13"," ","Durable Task Plugin"," v.","1.3"," ","Jenkins SSH Slaves plugin"," v.","1.6"," ", "plugID": ["ID: ","docker-plugin"]
+
+"Docker Commons Plugin"," v.","1.3.1"," ", "plugID": ["ID: ","docker-slaves"]
+
+"Static Analysis Utilities"," v.","1.92"," ","Maven Integration plugin"," v.","2.9"," ","Matrix Project Plugin"," v.","1.2.1"," ", "plugID": ["ID: ","dry"]
+
+"Docker Commons Plugin"," v.","1.0"," ", "plugID": ["ID: ","docker-traceability"]
+
+"EnvInject API Plugin"," v.","1.3"," ","Matrix Project Plugin"," v.","1.7"," ","Script Security Plugin"," v.","1.22"," ", "plugID": ["ID: ","envinject"]
+
+"Pipeline: Groovy"," v.","2.25"," ","Pipeline: Nodes and Processes"," v.","2.8"," ","Docker Commons Plugin"," v.","1.5"," ", "plugID": ["ID: ","docker-workflow"]
+
+"Javadoc Plugin"," v.","1.0"," ","Maven Integration plugin"," v.","1.447"," ", "plugID": ["ID: ","emma"]
+
+"Maven Integration plugin"," v.","2.9"," ","Matrix Project Plugin"," v.","1.2.1"," ","Static Analysis Utilities"," v.","1.88"," ", "plugID": ["ID: ","findbugs"]
+
+"Jenkins Git client plugin"," v.","1.11.0"," ", "plugID": ["ID: ","git-server"]
+
+"GitHub plugin"," v.","1.26.0"," ","Credentials Plugin"," v.","1.21"," ","Plain Credentials Plugin"," v.","1.1"," ","SSH Agent Plugin"," v.","1.3"," ","Structs Plugin"," v.","1.6"," ","Matrix Project Plugin"," v.","1.6"," ","Jenkins Git plugin"," v.","2.4.0"," ","GitHub API Plugin"," v.","1.82"," ", "plugID": ["ID: ","ghprb"]
+
+"Jackson 2 API Plugin"," v.","2.7.3"," ", "plugID": ["ID: ","github-api"]
+
+"GitHub plugin"," v.","1.26.0"," ","Credentials Plugin"," v.","2.1.12"," ","Display URL API"," v.","0.1"," ","Jenkins Git plugin"," v.","3.5.0"," ","GitHub API Plugin"," v.","1.86"," ","SCM API Plugin"," v.","2.2.0"," ","Structs Plugin"," v.","1.9"," ", "plugID": ["ID: ","github-branch-source"]
+
+"Jenkins Mailer Plugin"," v.","1.18"," ","GitHub API Plugin"," v.","1.77"," ","GitHub Branch Source Plugin"," v.","1.9"," ","Matrix Project Plugin"," v.","1.7"," ","Jenkins Git plugin"," v.","3.0.0"," ","Pipeline: Multibranch"," v.","2.9"," ", "plugID": ["ID: ","github-oauth"]
+
+"Credentials Plugin"," v.","2.1.8"," ","Display URL API"," v.","2.0"," ","Jenkins Git plugin"," v.","3.4.0"," ","GitHub API Plugin"," v.","1.86"," ","Plain Credentials Plugin"," v.","1.1"," ","SCM API Plugin"," v.","2.2.0"," ","Token Macro Plugin"," v.","1.11"," ", "plugID": ["ID: ","github"]
+
+"Pipeline: Shared Groovy Libraries"," v.","2.3"," ","Folders Plugin"," v.","5.16"," ","Pipeline: Multibranch"," v.","2.10"," ","Pipeline: Groovy"," v.","2.14"," ","Pipeline: GitHub Groovy Libraries"," v.","1.0"," ","Pipeline: Step API"," v.","2.3"," ","Pipeline: SCM Step"," v.","2.2"," ","GitHub Branch Source Plugin"," v.","2.0.0"," ","Pipeline: Job"," v.","2.5"," ","Branch API Plugin"," v.","2.0.0"," ","SCM API Plugin"," v.","2.0.1"," ","GitHub plugin"," v.","1.25.1"," ", "plugID": ["ID: ","github-organization-folder"]
+
+"Structs Plugin"," v.","1.1"," ", "plugID": ["ID: ","gerrit-trigger"]
+
+"Pipeline: SCM Step"," v.","1.14.2"," ","Jenkins Git client plugin"," v.","2.5.0"," ","Jenkins Mailer Plugin"," v.","1.18"," ","Matrix Project Plugin"," v.","1.7.1"," ","Credentials Plugin"," v.","2.1.14"," ","SCM API Plugin"," v.","2.2.0"," ","SSH Credentials Plugin"," v.","1.13"," ","Structs Plugin"," v.","1.10"," ", "plugID": ["ID: ","git"]
+
+"Structs Plugin"," v.","1.3"," ", "plugID": ["ID: ","gradle"]
+
+"Script Security Plugin"," v.","1.24"," ", "plugID": ["ID: ","groovy"]
+
+"Pipeline: Step API"," v.","1.14.2"," ","Matrix Project Plugin"," v.","1.0"," ", "plugID": ["ID: ","htmlpublisher"]
+
+"Script Security Plugin"," v.","1.15"," ","Matrix Project Plugin"," v.","1.4.1"," ", "plugID": ["ID: ","groovy-postbuild"]
+
+"Structs Plugin"," v.","1.2"," ", "plugID": ["ID: ","jacoco"]
+
+"Jenkins Git plugin"," v.","2.2.3"," ", "plugID": ["ID: ","jira-ext"]
+
+"Pipeline: Job"," v.","2.0"," ","Jenkins Mailer Plugin"," v.","1.20"," ","Matrix Project Plugin"," v.","1.6"," ","Branch API Plugin"," v.","2.0.0"," ", "plugID": ["ID: ","jira"]
+
+"Jenkins Apache HttpComponents Client 4.x API Plugin"," v.","4.5.3-2.0"," ","Folders Plugin"," v.","5.12"," ","Credentials Plugin"," v.","1.24"," ", "plugID": ["ID: ","job-import-plugin"]
+
+"Structs Plugin"," v.","1.6"," ","Script Security Plugin"," v.","1.25"," ", "plugID": ["ID: ","job-dsl"]
+
+"Credentials Plugin"," v.","1.21"," ","SSH Credentials Plugin"," v.","1.12"," ", "plugID": ["ID: ","jsch"]
+
+"Structs Plugin"," v.","1.2"," ", "plugID": ["ID: ","junit"]
+
+"Jenkins Mailer Plugin"," v.","1.20"," ", "plugID": ["ID: ","ldap"]
+
+"Display URL API"," v.","1.0"," ", "plugID": ["ID: ","mailer"]
+
+"JUnit Plugin"," v.","1.20"," ","Script Security Plugin"," v.","1.13"," ", "plugID": ["ID: ","matrix-project"]
+
+"Config File Provider Plugin"," v.","2.16.0"," ", "plugID": ["ID: ","nodejs"]
+
+"Jenkins Apache HttpComponents Client 4.x API Plugin"," v.","4.5.3-1.0"," ","Javadoc Plugin"," v.","1.0"," ","Jenkins JSch dependency plugin"," v.","0.1.54.1"," ","JUnit Plugin"," v.","1.6"," ","Jenkins Mailer Plugin"," v.","1.7"," ", "plugID": ["ID: ","maven-plugin"]
+
+"Structs Plugin"," v.","1.7"," ", "plugID": ["ID: ","performance"]
+
+"Pipeline: Shared Groovy Libraries"," v.","2.5"," ","Jenkins Git plugin"," v.","3.0.2"," ", "plugID": ["ID: ","pipeline-github-lib"]
+
+"Conditional BuildStep"," v.","1.3.1"," ","Matrix Project Plugin"," v.","1.6"," ","Script Security Plugin"," v.","1.25"," ", "plugID": ["ID: ","parameterized-trigger"]
+
+"Matrix Project Plugin"," v.","1.7.1"," ","Structs Plugin"," v.","1.10"," ", "plugID": ["ID: ","perfpublisher"]
+
+"Pipeline: Step API"," v.","2.3"," ","Pipeline: Supporting APIs"," v.","2.6"," ","Pipeline: API"," v.","2.3"," ", "plugID": ["ID: ","pipeline-build-step"]
+
+"Pipeline: API"," v.","2.19"," ","Pipeline: Groovy"," v.","2.37"," ","Pipeline: Job"," v.","2.0"," ","Pipeline: Step API"," v.","2.10"," ","Pipeline: Supporting APIs"," v.","2.14"," ","Pipeline: Input Step"," v.","2.0"," ","Pipeline: Stage Step"," v.","2.2"," ","Structs Plugin"," v.","1.7"," ", "plugID": ["ID: ","pipeline-graph-analysis"]
+
+"Pipeline: API"," v.","2.6"," ","Pipeline: Step API"," v.","2.5"," ","Pipeline: Supporting APIs"," v.","2.10"," ", "plugID": ["ID: ","pipeline-input-step"]
+
+"Pipeline: API"," v.","2.11"," ","Pipeline: Step API"," v.","2.9"," ", "plugID": ["ID: ","pipeline-milestone-step"]
+
+"Pipeline: Step API"," v.","2.13"," ","Structs Plugin"," v.","1.9"," ", "plugID": ["ID: ","pipeline-model-api"]
+
+"Pipeline: Groovy"," v.","2.36.1"," ","Pipeline: Job"," v.","2.11"," ","Pipeline: Model API"," v.","1.2.2"," ", "plugID": ["ID: ","pipeline-model-extensions"]
+
+"Pipeline: Declarative Extension Points API"," v.","1.1.1"," ", "plugID": ["ID: ","pipeline-model-declarative-agent"]
+
+"Credentials Plugin"," v.","2.1.13"," ","Pipeline: API"," v.","2.20"," ","Pipeline: Shared Groovy Libraries"," v.","2.7"," ","Pipeline: Groovy"," v.","2.36.1"," ","Pipeline: Nodes and Processes"," v.","2.9"," ","Pipeline: Multibranch"," v.","2.9.2"," ","Pipeline: SCM Step"," v.","2.4"," ","Pipeline: Supporting APIs"," v.","2.14"," ","Credentials Binding Plugin"," v.","1.11"," ","Pipeline: Basic Steps"," v.","2.3"," ","Docker Pipeline"," v.","1.9"," ","Jenkins Git client plugin"," v.","2.5.0"," ","Jenkins Mailer Plugin"," v.","1.18"," ","Pipeline: Stage Step"," v.","2.2"," ","SCM API Plugin"," v.","2.2.2"," ","Pipeline: Model API"," v.","1.2.2"," ","Pipeline: Declarative Agent API"," v.","1.1.1"," ","Pipeline: Declarative Extension Points API"," v.","1.2.2"," ","Pipeline: Stage Tags Metadata"," v.","1.2.2"," ", "plugID": ["ID: ","pipeline-model-definition"]
+
+"Pipeline: Step API"," v.","2.1"," ","Pipeline: API"," v.","1.15"," ", "plugID": ["ID: ","pipeline-stage-step"]
+
+"Credentials Plugin"," v.","2.1.5"," ", "plugID": ["ID: ","plain-credentials"]
+
+"Pipeline: API"," v.","2.15"," ","Pipeline: Job"," v.","2.0"," ","Pipeline: Step API"," v.","2.10"," ","Pipeline: Supporting APIs"," v.","2.14"," ","Jackson 2 API Plugin"," v.","2.7.3"," ","Pipeline Graph Analysis Plugin"," v.","1.1"," ","Pipeline: Input Step"," v.","2.0"," ","Pipeline: Stage Step"," v.","2.2"," ", "plugID": ["ID: ","pipeline-rest-api"]
+
+"Pipeline: REST API Plugin"," v.","2.9"," ","Pipeline: Job"," v.","2.0"," ","JavaScript GUI Lib: Handlebars bundle plugin"," v.","1.1"," ","JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin"," v.","1.2.1"," ","JavaScript GUI Lib: Moment.js bundle plugin"," v.","1.1"," ", "plugID": ["ID: ","pipeline-stage-view"]
+
+"Maven Integration plugin"," v.","2.9"," ","Matrix Project Plugin"," v.","1.2.1"," ","Static Analysis Utilities"," v.","1.88"," ", "plugID": ["ID: ","pmd"]
+
+"Credentials Plugin"," v.","2.1.13"," ","SSH Credentials Plugin"," v.","1.13"," ","Structs Plugin"," v.","1.9"," ", "plugID": ["ID: ","git-client"]
+
+"Maven Integration plugin"," v.","2.13"," ","Matrix Project Plugin"," v.","1.7"," ", "plugID": ["ID: ","release"]
+
+"Pipeline"," v.","1.13"," ","Pipeline: Groovy"," v.","1.13"," ","Script Security Plugin"," v.","1.15"," ","Docker Pipeline"," v.","1.2"," ", "plugID": ["ID: ","simple-build-for-pipeline"]
+
+"Token Macro Plugin"," v.","1.5.1"," ", "plugID": ["ID: ","run-condition"]
+
+"Maven Integration plugin"," v.","2.13"," ","Script Security Plugin"," v.","1.26"," ", "plugID": ["ID: ","promoted-builds"]
+
+"jQuery plugin"," v.","1.11.2-0"," ", "plugID": ["ID: ","sonar"]
+
+"SSH Credentials Plugin"," v.","1.9"," ","Jenkins JSch dependency plugin"," v.","0.1.54.1"," ", "plugID": ["ID: ","ssh"]
+
+"Pipeline: Step API"," v.","1.14.2"," ","bouncycastle API Plugin"," v.","1.0.2"," ","Credentials Plugin"," v.","2.1.1"," ","SSH Credentials Plugin"," v.","1.11"," ", "plugID": ["ID: ","ssh-agent"]
+
+"Credentials Plugin"," v.","2.1.0"," ", "plugID": ["ID: ","ssh-credentials"]
+
+"Credentials Plugin"," v.","2.1.2"," ","SSH Credentials Plugin"," v.","1.6.1"," ", "plugID": ["ID: ","ssh-slaves"]
+
+"Matrix Project Plugin"," v.","1.2.1"," ","Static Analysis Utilities"," v.","1.88"," ","Maven Integration plugin"," v.","2.9"," ", "plugID": ["ID: ","tasks"]
+
+"Pipeline: Job"," v.","2.0"," ","Pipeline: Step API"," v.","2.7"," ", "plugID": ["ID: ","token-macro"]
+
+"Pipeline: SCM Step"," v.","1.14.2"," ","Credentials Plugin"," v.","2.1.11"," ","MapDB API Plugin"," v.","1.0.1.0"," ","SCM API Plugin"," v.","2.0.8"," ","SSH Credentials Plugin"," v.","1.6.1"," ", "plugID": ["ID: ","subversion"]
+
+"JUnit Plugin"," v.","1.2"," ", "plugID": ["ID: ","testng-plugin"]
+
+"Maven Integration plugin"," v.","1.399"," ", "plugID": ["ID: ","violations"]
+
+"Pipeline: API"," v.","2.16"," ","Pipeline: Step API"," v.","2.12"," ","Jenkins Mailer Plugin"," v.","1.18"," ","Structs Plugin"," v.","1.6"," ", "plugID": ["ID: ","workflow-basic-steps"]
+
+"Matrix Project Plugin"," v.","1.2.1"," ","Maven Integration plugin"," v.","2.9"," ","Static Analysis Utilities"," v.","1.88"," ", "plugID": ["ID: ","warnings"]
+
+"Pipeline: Step API"," v.","2.10"," ","SCM API Plugin"," v.","2.0.8"," ","Structs Plugin"," v.","1.7"," ", "plugID": ["ID: ","workflow-api"]
+
+"Pipeline: API"," v.","2.18"," ","Pipeline: SCM Step"," v.","2.4"," ","Pipeline: Step API"," v.","2.13"," ","Pipeline: Supporting APIs"," v.","2.14"," ","SCM API Plugin"," v.","2.0.8"," ","Script Security Plugin"," v.","1.34"," ","Structs Plugin"," v.","1.7"," ","JavaScript GUI Lib: ACE Editor bundle plugin"," v.","1.0.1"," ","JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin"," v.","1.2.1"," ", "plugID": ["ID: ","workflow-cps"]
+
+"Structs Plugin"," v.","1.9"," ", "plugID": ["ID: ","scm-api"]
+
+"Pipeline: Multibranch"," v.","2.9.2"," ","Pipeline: Input Step"," v.","2.5"," ","Pipeline: Basic Steps"," v.","2.3"," ","Pipeline: Nodes and Processes"," v.","2.8"," ","Pipeline: API"," v.","2.8"," ","Pipeline: Groovy"," v.","2.24"," ","Pipeline: Supporting APIs"," v.","2.12"," ","Pipeline: Shared Groovy Libraries"," v.","2.5"," ","Pipeline: Job"," v.","2.9"," ","Pipeline: Stage View Plugin"," v.","2.4"," ","Pipeline: SCM Step"," v.","2.3"," ","Pipeline: Step API"," v.","2.7"," ","Pipeline: Declarative"," v.","1.0"," ","Pipeline: Stage Step"," v.","2.2"," ","Pipeline: Build Step"," v.","2.4"," ","Pipeline: Milestone Step"," v.","1.3"," ", "plugID": ["ID: ","workflow-aggregator"]
+
+"Pipeline: Groovy"," v.","2.30"," ","Pipeline: SCM Step"," v.","2.4"," ","Folders Plugin"," v.","5.12"," ","Jenkins Git client plugin"," v.","2.3.0"," ","Jenkins GIT server Plugin"," v.","1.7"," ","SCM API Plugin"," v.","2.1.1"," ","Script Security Plugin"," v.","1.27"," ", "plugID": ["ID: ","workflow-cps-global-lib"]
+
+"Pipeline: API"," v.","2.20"," ","Pipeline: Step API"," v.","2.11"," ","Pipeline: Supporting APIs"," v.","2.13"," ","Durable Task Plugin"," v.","1.14"," ","Script Security Plugin"," v.","1.25"," ", "plugID": ["ID: ","workflow-durable-task-step"]
+
+"Pipeline: Step API"," v.","2.9"," ", "plugID": ["ID: ","workflow-scm-step"]
+
+"Pipeline: API"," v.","2.22"," ","Pipeline: Step API"," v.","2.10"," ","SCM API Plugin"," v.","2.0.8"," ","Script Security Plugin"," v.","1.27"," ", "plugID": ["ID: ","workflow-support"]
+
+"Pipeline"," v.","1.11"," ", "plugID": ["ID: ","workflow-remote-loader"]
+
+"Pipeline: Supporting APIs"," v.","2.14"," ","Pipeline: API"," v.","2.15"," ","Pipeline: Job"," v.","2.10"," ","Pipeline: SCM Step"," v.","2.4"," ","Pipeline: Step API"," v.","2.10"," ","Pipeline: Groovy"," v.","2.32"," ","Branch API Plugin"," v.","2.0.7"," ","Folders Plugin"," v.","5.18"," ","SCM API Plugin"," v.","2.0.7"," ","Script Security Plugin"," v.","1.26"," ","Structs Plugin"," v.","1.7"," ", "plugID": ["ID: ","workflow-multibranch"]
+
+"Structs Plugin"," v.","1.5"," ", "plugID": ["ID: ","workflow-step-api"]
+
+"Pipeline: API"," v.","2.15"," ","Pipeline: Step API"," v.","2.10"," ","Pipeline: Supporting APIs"," v.","2.14"," ", "plugID": ["ID: ","workflow-job"]
+
+"Icon Shim Plugin"," v.","1.0.5"," ","Cloud Statistics Plugin"," v.","0.7"," ","Credentials Plugin"," v.","2.1.3"," ","Docker Commons Plugin"," v.","1.3.1"," ","Durable Task Plugin"," v.","1.3"," ","Jenkins SSH Slaves plugin"," v.","1.10"," ", "plugID": ["ID: ","yet-another-docker-plugin"]
+
+"Credentials Plugin"," v.","1.21"," ","Token Macro Plugin"," v.","2.0"," ", "plugID": ["ID: ","xcode-plugin"]
+
+"JUnit Plugin"," v.","1.6"," ", "plugID": ["ID: ","xunit"]
