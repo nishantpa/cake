@@ -1,4 +1,3 @@
 # cake
 
-This repo contains some fun and challenging problems. In 5 days, I'll do 12
-problems. We'll see what's there afterwards.
+This repo contains some fun and challenging problems. The goal is to do two problems a week

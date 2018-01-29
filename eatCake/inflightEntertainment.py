@@ -1,5 +1,6 @@
 # << Swami Shreeji >>
 # 8 Jan 2018
+# HOW TO RUN: python inflightEntertainment.py in terminal
 
 # Inflight Entertainment.
 # You've built an inflight entertainment system with on-demand movie streaming.
@@ -30,14 +31,14 @@ def entertainment(flightTime, movieTime_List):
 
 	determineSecondMovie = set(movieTime_List)
 	if timeofSecondMovie in determineSecondMovie:
-		# print "Success"
+		print "Success"
 		return True
 	else:
-		# print "Fail"
+		print "Fail"
 		return False
 
 
 flightTime = 120
-movieLengths = [i for i in xrange(47,101)]
+movieTime_List = [i for i in xrange(47,101)]
 
-entertainment(flightTime, movieLengths)
+entertainment(flightTime, movieTime_List)
