@@ -1,5 +1,4 @@
 # Swami Shreeji
-# Do NOW https://leetcode.com/problems/two-sum/description/
 # You cannot use the same element twice
 
 # This is assuming all numbers are +
