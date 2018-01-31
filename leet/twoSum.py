@@ -1,9 +1,21 @@
 # Swami Shreeji
 # Do NOW https://leetcode.com/problems/two-sum/description/
+# You cannot use the same element twice
 
+# This is assuming all numbers are +
 def twoSum(myList, target):
-	print "Hello world"
+	targetIndices = []
 
+	for elem in myList:
+		searchFor = abs(elem - target)
+		if searchFor in myList[myList.index(elem) + 1:]:
+			targetIndices.append(myList.index(elem))
+			targetIndices.append(myList.index(searchFor))
+			break
 
-cases = []; target = 9
-twoSum(cases, target)
+	print targetIndices
+
+# Test cases
+# case1 = [2, 7, 11, 15]; target = 9
+case2 = [3, 2, 4]; target = 6
+twoSum(case2, target)
