@@ -2,7 +2,7 @@
 # @nishantpatel ; 23 Nov 2017, 27 Nov 2017
 # TASK: Using 2016_general.csv
 # 	Get the candidate with the most votes. DONE
-# 	Get the votes of all candidates who ran for president and vp DONE
+# 	Get the votes of all candidates who ran for president and VP DONE
 
 import csv
 import sys

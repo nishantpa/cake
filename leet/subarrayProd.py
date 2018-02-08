@@ -1,6 +1,6 @@
 # Swami Shreeji
 # 7 Feb 2018
-# Speedrun - 10 min code challenge
+# Speedrun - 10 min hackerrank challenge
 
 # You're passed an array of integers. Your task is to find all the subarrays
 # you can make with that integer, and find the product. After finding the product
