@@ -19,3 +19,4 @@ def sortNames(names):
 names = ["Nishant", "Anand", "Anand", "Atmiya", "Atmiya", "Atmiya", "Lallu", "Sahaj", "Sahaj", "Sahil", "Hariprasad"]
 soln = sortNames(names)
 print soln
+
